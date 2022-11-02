@@ -1,0 +1,17 @@
+{
+    "name": "zqphper/composertest",
+    "description": "test",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zqphper\\Composertest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "张强",
+            "email": "454168610@qq.com"
+        }
+    ],
+    "require": {}
+}
